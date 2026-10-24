@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "Study Tracker API is running"}
+    return {"message": "Hi hdoob"}
